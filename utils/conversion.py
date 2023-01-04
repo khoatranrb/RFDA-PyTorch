@@ -2,7 +2,8 @@ import random
 import torch
 import skimage.color as skc
 import numpy as np
-from cv2 import cv2
+# from cv2 import cv2
+import cv2
 
 
 def img2float32(img):
