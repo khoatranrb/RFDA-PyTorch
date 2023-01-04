@@ -1,6 +1,7 @@
 import lmdb
 import os.path as op
-from cv2 import cv2
+# from cv2 import cv2
+import cv2
 from tqdm import tqdm
 from multiprocessing import Pool
 
